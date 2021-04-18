@@ -1,11 +1,17 @@
 {
 	"author": "Ricardo Peñaloza",
 	"description": "A project that does something awesome",
-	"keywords": [ "train", "npm", "package.json", "freecodecamp" ],
+	"keywords": [
+		"train",
+		"npm",
+		"package.json",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"moment": "2.14.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
